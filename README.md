@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dakota! 👋
 
 <!--
 **DakotaRileyMedia/DakotaRileyMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/DakotaRiley97"><img src="https://api.daily.dev/devcards/4b7775a1805640509b04e7e3e82a6b04.png?r=gq9" width="400" alt="Dakota Riley's Dev Card"/></a>
