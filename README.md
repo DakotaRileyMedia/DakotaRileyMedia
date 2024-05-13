@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Me
+
+👋🏼 Hello There, General Kenobi, or whoever else may have found their way here. Welcome to my little corner of GitHub, my name is Dakota! By day I work in a call center assisting merchants with technical support and account related issues, and by night I am a Gamer, Web Dev Student, PC Builder, and Sci-Fi Fan. 🚀
+
+👨🏼‍💻 I have been coding off and on for 10 years, starting my sophmore year of high school when I began my journey by learning the basics of Visual Basic and C#. Through the years, I have dabbled in a number of languages, including Java, C/C++, Python, the afformentioned C# and Visual Basic, Swift, Unreal Engine Blueprints, HTML, CSS, and JavaScript. Whild nothing ever stuck for long in the past, I have finally dedicated myself to focusing on Web Development, and with the help of Code:You, I am well on my way to becoming a professional web developer. 🌐
+
+🚧 Still Under Construction 🚧
 
 <!--
 **DakotaRileyMedia/DakotaRileyMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
